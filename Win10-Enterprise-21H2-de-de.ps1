@@ -1,4 +1,4 @@
-Write-Host -ForegroundColor Green “Starting OSDCloud Kpark ZTI”
+Write-Host -ForegroundColor Green "Starting OSDCloud Kpark ZTI"
 
 Start-Sleep -Seconds 5
 
