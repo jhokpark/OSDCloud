@@ -17,7 +17,7 @@ Import-Module OSD -Force
 
 Write-Host -ForegroundColor Green "Start OSDCloud Kpark"
 
-Start-OSDCloud -OSLanguage de-de -OSVersion Windows 10 -OSBuild 21H2 -OSEdition Enterprise -ZTI
+Start-OSDCloud -OSLanguage de-de -OSVersion 2 -OSBuild 21H2 -OSEdition Enterprise -ZTI
 
 #Restart from WinPE
 
