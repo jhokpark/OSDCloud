@@ -17,7 +17,7 @@ Import-Module OSD -Force
 
 Write-Host -ForegroundColor Green "Start OSDCloud Kpark"
 
-Start-OSDCloud -OSLanguage de-de -OSVersion "Windows 11" -OSBuild 21H2 -OSEdition Enterprise -ZTI -Clouddriver Dell
+Start-OSDCloud -OSLanguage de-de -OSVersion "Windows 11" -OSBuild 21H2 -OSEdition Enterprise -ZTI -CloudDriver Dell
 
 #Restart from WinPE
 
